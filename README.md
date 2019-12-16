@@ -19,7 +19,7 @@ International Journal of Computer Vision (IJCV), Nov 2019.
 # Usage
 
 ##### 1. Download any Facial Expression Synthesis dataset 
-##### 2. Create a folder structure as described [here.](https://github.com/arbishakram/mr_code/blob/master/images/folder_structure.png)
+##### 2. Create a folder structure as described [here.](https://github.com/arbishakram/masked_regression_code/blob/master/images/folder_structure.png)
 
  - Split images into training and test sets (e.g., 90\%/10\% for training and test, respectively).  
  - Crop all images to 128 x 128, where the faces are centered.
@@ -40,10 +40,10 @@ $ python main.py --mode test --test_dataset_dir 'dataset/test/' --image_size 128
 
 # Results
 Facial expression synthesis on sketches and animals
-![Figure 1](https://github.com/arbishakram/mr_code/blob/master/images/Fig_1.png)
+![Figure 1](https://github.com/arbishakram/masked_regression_code/blob/master/images/Fig_1.png)
 
 Facial expression synthesis on in the wild images
-<p align="center"><img width="100%" src="https://github.com/arbishakram/mr_code/blob/master/images/Fig_2.png" /></p>
+<p align="center"><img width="100%" src="https://github.com/arbishakram/masked_regression_code/blob/master/images/Fig_2.png" /></p>
 
 
 # Citation
