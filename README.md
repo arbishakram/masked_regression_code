@@ -1,4 +1,4 @@
-# mr_code
+# masked_regression_code
 MR - Python Implementation
 
 This repositery provides a python implementation of MR (Masked Regression). MR can efficiently synthesize facial expressions.
