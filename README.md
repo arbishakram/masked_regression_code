@@ -38,6 +38,14 @@ $ python main.py --mode test --test_dataset_dir 'dataset/test/' --image_size 128
                         --receptive_field 3 
 ```
 
+##### 5. Test in the wild
+To test MR:
+```bash
+$ python main.py --mode test_inthewild --test_dataset_dir 'dataset/inthewild/' --image_size 128 --total_images 20 --input_ch 1 
+                        --receptive_field 3 
+```
+
+
 # Results
 Facial expression synthesis on sketches and animals
 ![Figure 1](https://github.com/arbishakram/masked_regression_code/blob/master/images/Fig_1.png)
