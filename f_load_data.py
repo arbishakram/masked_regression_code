@@ -2,7 +2,7 @@ import os
 import glob
 import numpy as np
 import cv2
-from normalize_images import normalize_img
+from f_normalize_images import normalize_img
 
 
 def load_data(self, args):
