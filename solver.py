@@ -47,7 +47,7 @@ class mr_solver:
              sparse.save_npz(str(args.weights_dir)+'mr_weights_dec-10-2019_'+str(ch+1)+'.npz', W)
              print("saved weight matrix "+str(ch+1)+"...")
              print("*"*40)
-        print("Done")
+         print("Done")
              
     
      def test(self, args):
