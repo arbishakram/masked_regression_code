@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 from scipy import sparse
 from f_create_mask import create_mask
-from f_load_data import create_design_response_matrices, load_data
+from f_load_data import *
 from f_mr import mr
 import json
 
