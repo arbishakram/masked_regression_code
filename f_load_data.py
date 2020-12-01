@@ -35,6 +35,8 @@ def load_data(self, args):
                     img = get_img(img)
                     self.imagesA[count] = np.array(img)
                     count = count + 1 
+                   
+                 return self.imagesA
                     
              else:
                  if args.mode == 'train':
