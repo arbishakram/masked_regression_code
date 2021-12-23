@@ -55,14 +55,13 @@ Facial expression synthesis on in the wild images
 # Citation
 If this work is useful for your research, please cite our [Paper](https://link.springer.com/article/10.1007%2Fs11263-019-01256-3):
 ```bash
-@Article{khan_mr_ijcv_2019,
+@article{khan_mr_ijcv_2019,
 author="Khan, Nazar
 and Akram, Arbish
 and Mahmood, Arif
 and Ashraf, Sania
 and Murtaza, Kashif",
 journal="International Journal of Computer Vision",
-number = "5",
 pages = "1433--1454",
 title = "{Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis}",
 volume = "128",
