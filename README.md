@@ -4,7 +4,7 @@ MR - Python Implementation
 This repositery provides a python implementation of MR (Masked Regression). MR can efficiently synthesize facial expressions.
 The demo video for MR can be found here.
 
-### Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis <br>
+### [Masked Linear Regression for Learning Local Receptive Fields for Facial Expression Synthesis] (https://link.springer.com/article/10.1007%2Fs11263-019-01256-3) <br>
 #### Nazar Khan<sup>1</sup> · Arbish Akram<sup>1</sup> · Arif Mahmood<sup>2</sup> · Sania Ashraf<sup>1</sup>· Kashif Murtaza<sup>1</sup>
 
 
