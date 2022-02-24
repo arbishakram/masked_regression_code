@@ -22,7 +22,7 @@ def mr(self, M, M1, M2):
         ATA = np.dot(M1[:,indices[i]].T, M1[:,indices[i]])  
         A = np.linalg.inv(ATA+self.lamda*np.eye(cou))        
         B = delta_E[i,indices[i]].T
-        Wt[i,indices[i]] = -(np.dot(A,B)).T
+        Wt[i,indices[i]] = np.dot(A,B).T
 #            print(i)
      Wt = sparse.csr_matrix(Wt)  
      return Wt 
