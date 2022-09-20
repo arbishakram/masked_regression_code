@@ -10,7 +10,7 @@ def mr(self, M, M1, M2):
         ind = M[i].indices
         cou = ind.size
         for indi in range(cou):
-           delta_E[i,ind[indi]] = sum(-M2[:,i]*M1[:,ind[indi]])       
+           delta_E[i,ind[indi]] = sum(M2[:,i]*M1[:,ind[indi]])       
 
      indices = []
      for m in range(self.image_size):   
