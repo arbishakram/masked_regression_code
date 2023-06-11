@@ -12,7 +12,7 @@ The demo video for MR can be found here.
 (PUCIT), Lahore, Pakistan <br>
 <sup>2</sup> Department of Computer Science, Information Technology
 University (ITU), Lahore, Pakistan <br> 
-International Journal of Computer Vision (IJCV), Nov 2019.
+International Journal of Computer Vision (IJCV), 2020
 
 # Usage
 
